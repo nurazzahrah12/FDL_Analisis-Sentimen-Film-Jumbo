@@ -44,7 +44,7 @@ Proyek ini bertujuan untuk menganalisis sentimen dari komentar pengguna terhadap
 
 ---
 
-## Umpan Balik Reviewer (Intisari)
+## Umpan Balik Reviewer
 
 **Kriteria utama yang sudah terpenuhi:**
 - Data hasil scraping mandiri
